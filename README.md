@@ -1,3 +1,5 @@
+trash and cheaters can exploit
+
 # admin_users
 Simple script for showing details about player.
 This script is not my, but I highly modified it.
