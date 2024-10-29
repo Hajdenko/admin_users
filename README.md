@@ -1,4 +1,4 @@
-trash and cheaters can exploit
+this was one of my first scripts, It's trash and cheaters can exploit
 
 # admin_users
 Simple script for showing details about player.
